@@ -13,19 +13,32 @@ font-weight: bold;
 padding:15px;
 }
 nav ul {
-display:inline;
-border-right:2px solid #111111;
-padding-right:8px;
-padding-left:8px;
+ list-style-type:none;
+ background-color:#d9bf89;
+ border: 2px solid #111111;
+ border-radius:10px;
+ font-family: 'Protest Revolution', sans-serif;
+ font-weight:bold;
+ padding:15px;
 }
-nav ul li: last child{
-border-right:none;}
-nav ul li am {
-text-decoration:none;
-color:#111111;
+
+ nav ul li{
+  display:inline;
+  border-right:2px solid #111111;
+  padding-right:8px;
+  padding-left:8px;
+ }
+
+nav ul li:last child{
+ border-right:none;
+}
+
+nav ul li a {
+ text-decoration:none;
+ color:#111111;
 }
 
 nav ul li.selected{
-colour#292929;
+ color:#292929;
 }
-
+'ere
