@@ -4,20 +4,11 @@ html, body{ font-family: 'Pixelify Sans', sans-serif; font-optical-sizing: auto;
           background-image: url("Ferret.jpg");}
 (
 nav ul {
-list-style-type:none;
-background-colour:#0FE5DE;
-border: 2px solid #111111;
-border-radius:10px;
-font-family: 'Pixelify Sans', sans-serif; 
-font-weight: bold;
-padding:15px;
-}
-nav ul {
  list-style-type:none;
  background-color:#d9bf89;
  border: 2px solid #111111;
  border-radius:10px;
- font-family: 'Protest Revolution', sans-serif;
+ font-family: 'Pixelify Sans', sans-serif;
  font-weight:bold;
  padding:15px;
 }
