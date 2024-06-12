@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Bnuuy club</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <h1> hi i am unity game dev i am working on a project in the futre so go and follow me on <a href="https://www.youtube.com/channel/UCdN7PDZGvkrVcPtJecFr2cQ">. my youtube</a> for updates! </h1>
+</body>
+  <center>
+    <nav>
+        <ul>
+            <li class="selected">Home</li>
+            <li><a href="page2.html">cool stuff</a></li>
+            <li><a href="3.html">page3</a></li>
+
+        </ul>
+    </nav>
+    
+
+
+  </center>
+  
+
